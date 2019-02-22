@@ -1,0 +1,15 @@
+Package: StockPredictorR
+Type: Package
+Title: Example of a Project Developed in Domino
+Version: 0.1.0
+Author: Copied from blog
+Maintainer: John Conway <john.conway@dominodatalab.com>
+Description: Example Domino Workflow
+  Develop packaged in Domino and commit to git
+License: None
+Encoding: UTF-8
+LazyData: FALSE
+Imports:
+  quantmod,stats,xts
+Suggests:
+  knitr
